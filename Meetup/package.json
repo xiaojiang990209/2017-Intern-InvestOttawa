@@ -1,0 +1,16 @@
+{
+  "name": "meetup",
+  "version": "1.0.0",
+  "description": "Scrapes IDs of Meetup.com members from a group",
+  "main": "meetup.js",
+  "dependencies": {
+    "got": "^6.7.1",
+    "jsdom": "^9.12.0",
+    "stream-array": "^1.1.2"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "R&C Inc.",
+  "license": "ISC"
+}
